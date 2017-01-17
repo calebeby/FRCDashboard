@@ -26,7 +26,7 @@
     "electron-prebuilt": "^1.2.0"
   },
   "dependencies": {
-    "brunch": "^2.8.2",
+    "brunch": "^2.10.1",
     "stylus-brunch": "^2.7.2"
   }
 }
