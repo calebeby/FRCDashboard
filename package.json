@@ -27,6 +27,6 @@
   },
   "dependencies": {
     "brunch": "^2.8.2",
-    "stylus-brunch": "^2.7.2"
+    "stylus-brunch": "^2.10.0"
   }
 }
